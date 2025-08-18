@@ -1,0 +1,24 @@
+{
+    "version": "1.0.0",
+    "news": "🎉 Pack Forge 1.20.1-47.4.2 complet avec toutes les bibliothèques !",
+    "files": [
+      {
+        "path": "minecraft/forge.jar",
+        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/forge.jar",
+        "sha256": "56B71336D2B4FDFFD197F56595B0DA93E32A946F78F382A299B8F4B92758BB0F",
+        "size": 23068672
+      },
+      {
+        "path": "minecraft/versions/1.20.1-forge-47.4.2/1.20.1-forge-47.4.2.json",
+        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/versions/1.20.1-forge-47.4.2/1.20.1-forge-47.4.2.json",
+        "sha256": "E98F6BBE92B2A0D60BA94DA58E7E65C9CA7C5D142941902CF3A3C412673B3E20",
+        "size": 16384
+      },
+      {
+        "path": "minecraft/versions/1.20.1-forge-47.4.2/1.20.1-forge-47.4.2.jar",
+        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/versions/1.20.1-forge-47.4.2/1.20.1-forge-47.4.2.jar",
+        "sha256": "56B71336D2B4FDFFD197F56595B0DA93E32A946F78F382A299B8F4B92758BB0F",
+        "size": 23068672
+      }
+    ]
+  } 
