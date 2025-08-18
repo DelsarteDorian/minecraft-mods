@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "news": "🎉 Pack Forge 1.20.1-47.4.2 COMPLET avec TOUTES les bibliothèques !",
+  "news": "🎉 Pack Forge 1.20.1-47.4.2 COMPLET avec TOUTES les bibliothèques et natives !",
   "files": [
     {
       "path": "minecraft/forge.jar",
@@ -159,46 +159,130 @@
       "size": 36601
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 159361
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-glfw-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-glfw-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 130064
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 134695
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 145512
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-openal-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-openal-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 123808
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-glfw-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 139251
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-openal-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-openal-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 576872
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-opengl-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-opengl-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-openal-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-openal-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 505234
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-openal-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-openal-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 520313
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 100205
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-stb-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-stb-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 82445
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-opengl-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 87463
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-stb-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-stb-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 256301
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-tinyfd-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-stb-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-stb-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 216848
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-stb-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-stb-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 225147
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 127930
     },
     {
-      "path": "minecraft/libraries/org/lwjgl/lwjgl-jemalloc-3.3.1-natives-windows.jar",
-      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/lwjgl/lwjgl-jemalloc-3.3.1-natives-windows.jar",
+      "path": "minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 109139
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-tinyfd-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 110042
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows.jar",
       "sha256": "PLACEHOLDER_SHA256",
       "size": 135585
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 114250
+    },
+    {
+      "path": "minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows-x86.jar",
+      "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/lwjgl-jemalloc-3.3.1-natives-windows-x86.jar",
+      "sha256": "PLACEHOLDER_SHA256",
+      "size": 110405
     }
   ]
 } 
