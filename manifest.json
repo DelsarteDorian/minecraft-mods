@@ -27,24 +27,6 @@
         "size": 0
       },
       {
-        "path": "minecraft/libraries/org/objectweb/asm/asm/9.5/asm-9.5.jar",
-        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/objectweb/asm/asm/9.5/asm-9.5.jar",
-        "sha256": "d74d4ba0dee3f9c1c05c6fd6243b77c3b82d95d6c16a0c11002581d30dfe48c8b",
-        "size": 0
-      },
-      {
-        "path": "minecraft/libraries/org/objectweb/asm/asm-commons/9.5/asm-commons-9.5.jar",
-        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/objectweb/asm/asm-commons/9.5/asm-commons-9.5.jar",
-        "sha256": "8b6c05e2f99fce161c7beac719ea800cc7a32c13c2f48454a82f68b697274e57b",
-        "size": 0
-      },
-      {
-        "path": "minecraft/libraries/org/objectweb/asm/asm-tree/9.5/asm-tree-9.5.jar",
-        "url": "https://raw.githubusercontent.com/DelsarteDorian/minecraft-mods/main/minecraft/libraries/org/objectweb/asm/asm-tree/9.5/asm-tree-9.5.jar",
-        "sha256": "81f7ad52b4c2aa6e78ad0b4438d19d20f6c78d3d4f4b98c09440ccf610f2a8f8",
-        "size": 0
-      },
-      {
         "path": "minecraft/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
         "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
         "sha256": "4fdac2fbe92dfad86a",
